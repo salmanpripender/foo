@@ -1,0 +1,23 @@
+{
+  "id": 5,
+  "name": "Charlie Davis",
+  "username": "charlied",
+  "email": "charlie.davis@example.info",
+  "address": {
+    "street": "Fourth Lane",
+    "suite": "Suite 505",
+    "city": "Exampleburg",
+    "zipcode": "56789-0123",
+    "geo": {
+      "lat": "45.6789",
+      "lng": "23.4567"
+    }
+  },
+  "phone": "567-890-1234",
+  "website": "examplesite.info",
+  "company": {
+    "name": "Davis Group",
+    "catchPhrase": "Empowering the future",
+    "bs": "leverage modern technologies"
+  }
+}

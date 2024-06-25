@@ -1,0 +1,23 @@
+{
+  "id": 7,
+  "name": "Eve Foster",
+  "username": "evef",
+  "email": "eve.foster@example.io",
+  "address": {
+    "street": "Sixth Street",
+    "suite": "Suite 707",
+    "city": "Samplington",
+    "zipcode": "78901-2345",
+    "geo": {
+      "lat": "56.7890",
+      "lng": "45.6789"
+    }
+  },
+  "phone": "789-012-3456",
+  "website": "samplesite.io",
+  "company": {
+    "name": "Foster LLC",
+    "catchPhrase": "Driving forward",
+    "bs": "optimize business processes"
+  }
+}

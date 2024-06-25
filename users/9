@@ -1,0 +1,23 @@
+{
+  "id": 9,
+  "name": "Grace Hill",
+  "username": "graceh",
+  "email": "grace.hill@example.us",
+  "address": {
+    "street": "Eighth Way",
+    "suite": "Suite 909",
+    "city": "Mocksville",
+    "zipcode": "90123-4567",
+    "geo": {
+      "lat": "67.8901",
+      "lng": "67.8901"
+    }
+  },
+  "phone": "901-234-5678",
+  "website": "mocksite.us",
+  "company": {
+    "name": "Hill and Co.",
+    "catchPhrase": "Innovation through technology",
+    "bs": "enhance digital transformation"
+  }
+}

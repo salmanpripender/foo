@@ -1,0 +1,23 @@
+{
+  "id": 10,
+  "name": "Hank Iverson",
+  "username": "hanki",
+  "email": "hank.iverson@example.com",
+  "address": {
+    "street": "Ninth Lane",
+    "suite": "Apt. 1010",
+    "city": "Samplopolis",
+    "zipcode": "01234-5678",
+    "geo": {
+      "lat": "-67.8901",
+      "lng": "78.9012"
+    }
+  },
+  "phone": "012-345-6789",
+  "website": "samplosite.com",
+  "company": {
+    "name": "Iverson Inc.",
+    "catchPhrase": "Leading with innovation",
+    "bs": "deliver impactful solutions"
+  }
+}

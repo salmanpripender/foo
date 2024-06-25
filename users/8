@@ -1,0 +1,23 @@
+{
+  "id": 8,
+  "name": "Frank Green",
+  "username": "frankg",
+  "email": "frank.green@example.me",
+  "address": {
+    "street": "Seventh Road",
+    "suite": "Apt. 808",
+    "city": "Trialtown",
+    "zipcode": "89012-3456",
+    "geo": {
+      "lat": "-56.7890",
+      "lng": "56.7890"
+    }
+  },
+  "phone": "890-123-4567",
+  "website": "trialsite.me",
+  "company": {
+    "name": "Green Ltd.",
+    "catchPhrase": "Pioneering the future",
+    "bs": "redefine industry standards"
+  }
+}

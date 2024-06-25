@@ -1,0 +1,23 @@
+{
+  "id": 2,
+  "name": "Jane Smith",
+  "username": "janesmith",
+  "email": "jane.smith@example.org",
+  "address": {
+    "street": "First Avenue",
+    "suite": "Apt. 202",
+    "city": "Mockville",
+    "zipcode": "23456-7890",
+    "geo": {
+      "lat": "-23.4567",
+      "lng": "89.0123"
+    }
+  },
+  "phone": "234-567-8901",
+  "website": "mocksite.org",
+  "company": {
+    "name": "Smith LLC",
+    "catchPhrase": "Leading the way in innovation",
+    "bs": "empower global markets"
+  }
+}

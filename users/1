@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "name": "John Doe",
+  "username": "johndoe",
+  "email": "john.doe@example.com",
+  "address": {
+    "street": "Main Street",
+    "suite": "Suite 101",
+    "city": "Sampletown",
+    "zipcode": "12345-6789",
+    "geo": {
+      "lat": "12.3456",
+      "lng": "78.9101"
+    }
+  },
+  "phone": "123-456-7890",
+  "website": "example.com",
+  "company": {
+    "name": "Doe Inc.",
+    "catchPhrase": "Innovative solutions for all",
+    "bs": "deliver high-quality services"
+  }
+}

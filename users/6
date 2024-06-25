@@ -1,0 +1,23 @@
+{
+  "id": 6,
+  "name": "Daniel Evans",
+  "username": "danielev",
+  "email": "daniel.evans@example.biz",
+  "address": {
+    "street": "Fifth Avenue",
+    "suite": "Apt. 606",
+    "city": "Faketown",
+    "zipcode": "67890-1234",
+    "geo": {
+      "lat": "-45.6789",
+      "lng": "34.5678"
+    }
+  },
+  "phone": "678-901-2345",
+  "website": "fakesite.biz",
+  "company": {
+    "name": "Evans Corp",
+    "catchPhrase": "Innovative and reliable",
+    "bs": "drive global innovation"
+  }
+}
